@@ -272,7 +272,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin-left: 25px;
 }
 .banner img {
-  animation: updown 3s ease 0s infinite ;
+  animation: updown 5s ease 0s infinite ;
 }
 @keyframes updown {
     0% {
@@ -481,6 +481,10 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 .contact form button:hover::before {
   width: 100%;
+}
+
+.project-text{
+  text-align: start;
 }
 
 /************ Footer Css ************/

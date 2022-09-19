@@ -1,7 +1,7 @@
 {
-  "name": "personal-portfolio",
+  "name": "AvivPortfolio",
   "version": "0.1.0",
-  "homepage": "https://github.io/asvorz/Portfolio",
+  "homepage": "https://asvorz.github.io/AvivPortfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.7.0",

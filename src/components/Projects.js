@@ -41,12 +41,15 @@ export const Projects = () => {
                   }
                 >
                   <h2>Projects</h2>
-                  <p>
+                  <div>
+                  <p className="text-start">
                     In my projects, I learned and experimented with React,
                     JavaScript, CSS, HTML and server-side programming
-                    languages like NodeJS, ExpressJS, SQL and MongoDB. I was involved in projects that interested me and
+                    languages like NodeJS, ExpressJS, SQL and MongoDB. <br></br>
+                    I was involved in projects that interested me and
                     also a real active store project
                   </p>
+                  </div>
                   <Tab.Container id="projects-tabs" defaultActiveKey="first">
                     <Tab.Content
                       id="slideInUp"

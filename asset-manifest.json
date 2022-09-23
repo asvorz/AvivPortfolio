@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/AvivPortfolio/static/css/main.c3c7062d.css",
-    "main.js": "/AvivPortfolio/static/js/main.2317db64.js",
+    "main.css": "/AvivPortfolio/static/css/main.0e286e1e.css",
+    "main.js": "/AvivPortfolio/static/js/main.3d6a75cf.js",
+    "static/media/project-img2.png": "/AvivPortfolio/static/media/project-img2.b48bbe0c899fbb015c02.png",
     "static/media/project-img1.png": "/AvivPortfolio/static/media/project-img1.ade4fa1418e486fb4502.png",
-    "static/media/project-img3.png": "/AvivPortfolio/static/media/project-img3.a5d35921bc80161b98cf.png",
     "static/media/header-img.svg": "/AvivPortfolio/static/media/header-img.986b200c0200d3cc7b140278e7738bb5.svg",
     "static/media/contact-img.svg": "/AvivPortfolio/static/media/contact-img.d1090b20c1f620cbdcd0edf7bcf7ba22.svg",
-    "static/media/project-img2.png": "/AvivPortfolio/static/media/project-img2.51db151bd32efe1866fd.png",
+    "static/media/project-img3.png": "/AvivPortfolio/static/media/project-img3.ca5f524a024ae491916b.png",
     "static/media/logo.svg": "/AvivPortfolio/static/media/logo.491484d79567508d6842f8aafe10fcb1.svg",
     "static/media/nav-icon2.svg": "/AvivPortfolio/static/media/nav-icon2.9cd776745ea31fd6c12f1707b2265f71.svg",
     "static/media/nav-icon1.svg": "/AvivPortfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "index.html": "/AvivPortfolio/index.html",
-    "main.c3c7062d.css.map": "/AvivPortfolio/static/css/main.c3c7062d.css.map",
-    "main.2317db64.js.map": "/AvivPortfolio/static/js/main.2317db64.js.map"
+    "main.0e286e1e.css.map": "/AvivPortfolio/static/css/main.0e286e1e.css.map",
+    "main.3d6a75cf.js.map": "/AvivPortfolio/static/js/main.3d6a75cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3c7062d.css",
-    "static/js/main.2317db64.js"
+    "static/css/main.0e286e1e.css",
+    "static/js/main.3d6a75cf.js"
   ]
 }

@@ -32,7 +32,7 @@ export const NavBar = () => {
     <Router>
       <Navbar expand="md" className={scrolled ? "scrolled" : ""}>
         <Container>
-          <Navbar.Brand href="#about">
+          <Navbar.Brand href="#">
             <img src={logo} alt="Logo" />
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav">
@@ -63,16 +63,24 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="https://www.linkedin.com/in/aviv-sabag-165249192/" target="_blank" rel="noreferrer">
+                <a
+                  href="https://www.linkedin.com/in/aviv-sabag-165249192/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <img src={navIcon1} alt="" />
                 </a>
-                <a href="https://github.com/asvorz" target="_blank" rel="noreferrer">
+                <a
+                  href="https://github.com/asvorz"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   <img src={navIcon2} alt="" />
                 </a>
               </div>
               <HashLink to="#connect">
                 <button className="vvd">
-                  <span>Let’s Connect</span>
+                  <span>Connect me</span>
                 </button>
               </HashLink>
             </span>

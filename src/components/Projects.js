@@ -21,10 +21,10 @@ export const Projects = () => {
       link: "",
     },
     {
-      title: "Background Generator",
+      title: "Virtual Keyboard - HTML, CSS & JS",
       description: "Vanila JavaScript and Css",
       imgUrl: projImg3,
-      link: "https://github.com/asvorz/Background-Generator",
+      link: "https://github.com/asvorz/VirtualKeyboard",
     },
   ];
 

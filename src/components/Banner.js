@@ -18,14 +18,13 @@ export const Banner = () => {
                 >
                   <span className="tagline">FullStack Web Developer </span>
                   <h1>
-                    {`Hi! I'm Aviv Welcome to my Portfolio`}
-                    <span className="wrap"></span>
+                   Hi! I'm Aviv Welcome to my Portfolio
                   </h1>
                   <p>
                     I am Full of motivation and desire to succeed in the field
                     of Web development, im making a transition from teaching
-                    production, I studied independently through
-                    Udemy and took an intensive 800-hour course at IITC College
+                    production,<br></br> I studied independently through
+                    Udemy and took an intensive 800 hour course at IITC College
                     with an emphasis on React technology.
                   </p>
                 </div>

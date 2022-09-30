@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AvivPortfolio/static/css/main.aac30377.css",
-    "main.js": "/AvivPortfolio/static/js/main.633faf57.js",
+    "main.js": "/AvivPortfolio/static/js/main.5218c536.js",
     "static/media/project-img2.png": "/AvivPortfolio/static/media/project-img2.b48bbe0c899fbb015c02.png",
     "static/media/project-img1.png": "/AvivPortfolio/static/media/project-img1.ade4fa1418e486fb4502.png",
     "static/media/header-img.svg": "/AvivPortfolio/static/media/header-img.986b200c0200d3cc7b140278e7738bb5.svg",
@@ -12,10 +12,10 @@
     "static/media/nav-icon1.svg": "/AvivPortfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "index.html": "/AvivPortfolio/index.html",
     "main.aac30377.css.map": "/AvivPortfolio/static/css/main.aac30377.css.map",
-    "main.633faf57.js.map": "/AvivPortfolio/static/js/main.633faf57.js.map"
+    "main.5218c536.js.map": "/AvivPortfolio/static/js/main.5218c536.js.map"
   },
   "entrypoints": [
     "static/css/main.aac30377.css",
-    "static/js/main.633faf57.js"
+    "static/js/main.5218c536.js"
   ]
 }
